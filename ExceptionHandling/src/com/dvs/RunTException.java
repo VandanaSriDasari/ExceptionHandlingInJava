@@ -24,7 +24,7 @@ public class RunTException {
 		}
 
 		System.out.println(result);
-		System.out.println("program ends");
+		System.out.println("program ends now");
 
 
 
